@@ -234,10 +234,10 @@ li::marker{
 }
 
 
-.option{
+/* .option{ */
     /* margin-top: 3rem; */
     /* padding: 1rem; */
-}
+/* } */
 
 figcaption{
     background-color: #1387C1;
@@ -371,3 +371,12 @@ a{
 .slick-next{
     right: 0px;
 }
+
+.ventajas{
+    margin-top: 3rem;
+}
+
+
+
+
+
